@@ -1,4 +1,4 @@
-# TCU-competition
+# TCU Crossroads Analytics Competition
 
 Compeition website: https://desmith54.wixsite.com/crossroadschallenge
 
